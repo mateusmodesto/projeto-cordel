@@ -79,10 +79,11 @@ section > p{
     background-image: url(../imagens/background001.jpg);
     background-position: right center;
     background-attachment: fixed;
-    
+
 }
 #img02{
     background-image: url(../imagens/background002.jpg);
+    background-position: right center;
 }
 
 
