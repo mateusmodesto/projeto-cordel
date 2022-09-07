@@ -12,7 +12,7 @@
 *{
     margin:0px;
     padding: 0px;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 html, body{
@@ -82,7 +82,7 @@ section > p{
 }
 #img02{
     background-image: url(../imagens/background002.jpg);
-    
+    background-position: right center;
 }
 
 
